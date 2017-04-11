@@ -1,3 +1,2 @@
 # seshat
-
-a [Sails](http://sailsjs.org) application
+Seshat - The Ancient God of Files
